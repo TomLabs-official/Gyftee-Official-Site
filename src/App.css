@@ -42,7 +42,11 @@
     text-align:left;
 }
 body{
-    background-image:linear-gradient(to right, purple, white)
+    background-image:linear-gradient(to right, purple, white);
+    min-height:100vh;
+    margin:0;
+    padding:20px;
+    box-sizing:border-box;
 }
 .Contactinfo{
     color:white;
